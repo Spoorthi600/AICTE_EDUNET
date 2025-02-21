@@ -2,5 +2,5 @@ Here the repository has Steganography
 
 using python programming language
 
-using CV2 and string libraries
+using CV2, os and  string libraries
 
